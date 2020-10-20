@@ -85,5 +85,4 @@ I working on testing of micro technology , C++ and working at fraunhofer on web 
 I have been working scientifically in the field of Python for two years and I have decided to learn more and more in this field, especially data science.I can quickly learn and use the material, so I learned Python in depth and I am still very interested in learning it, which eventually led to teaching this subject at university and It would be great 
 if I learn from those who work experimentally and effectively in this field, like your team.As a team player, I am collaborative with peers, searching for ways to integrate valuable insights. 
 
-
 [Linkedin](https://www.linkedin.com/in/aminbanadaki/) 
