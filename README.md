@@ -37,7 +37,7 @@ I hope I can find a solution to this problem with your help.
 
 ## Technical problems
 
-I used .merge() functionality in pandas to compare the differences between the two data frames.  
+I used .merge() functionality in pandas to compare the differences between two data frames.  
 I had trouble establishing all the conditions for this output, which eventually led to separate values in different rows. 
 
 [Back To The Top](#Comparison-Service)
