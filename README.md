@@ -21,6 +21,8 @@ By having a 'Ground truth' that contains basic and fixed information that determ
 Extracted items called 'Extraction' which are a random example of services provided by the company that with Ground truth are compared and finally the proximity of their output is checked.
 By quantifying the equality and inequality of the data, it can be compared as a whole. A value of '0' for equality of columns and a value of '1 'for inequality checks .
 
+((((((I updated my last code that I pushed 11 days ago (I found some of my mistakes)))))))
+
 [Back To The Top](#Comparison-Service)
 
 ---
