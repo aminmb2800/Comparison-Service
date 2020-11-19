@@ -21,7 +21,6 @@ By having a 'Ground truth' that contains basic and fixed information that determ
 Extracted items called 'Extraction' which are a random example of services provided by the company that with Ground truth are compared and finally the proximity of their output is checked.
 By quantifying the equality and inequality of the data, it can be compared as a whole. A value of '0' for equality of columns and a value of '1 'for inequality checks .
 
-((((((I updated my last code that I pushed 11 days ago (I found some of my mistakes)))))))
 
 [Back To The Top](#Comparison-Service)
 
@@ -29,9 +28,7 @@ By quantifying the equality and inequality of the data, it can be compared as a 
 
 ## Feedback Of Result
 
-As a computer student, I am eager to learn a lot in this field.
-This code can show equal values in the final file but can not show inequality in one line.
-I hope I can find a solution to this problem with your help.
+This code can show equal values in the final file and can show inequality in one line.
 
 [Back To The Top](#Comparison-Service)
 
